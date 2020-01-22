@@ -56,14 +56,13 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demos_sites":{},
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "elearning.inaba.ac.id",
+    "siteurl": "",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
