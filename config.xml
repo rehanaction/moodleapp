@@ -187,7 +187,7 @@
     <config-file parent="FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED" target="*-Info.plist">
         <string>YES</string>
     </config-file>
-    <plugin name="cordova-android-support-gradle-release" spec="3.0.1">
-        <variable name="ANDROID_SUPPORT_VERSION" value="27.1.0" />
+    <plugin name="cordova-android-support-gradle-release" spec="^2.0.1">
+        <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
     </plugin>
 </widget>
