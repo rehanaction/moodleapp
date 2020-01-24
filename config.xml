@@ -119,9 +119,6 @@
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
         <icon height="1024" src="resources/ios/icon/icon-1024.png" width="1024" />
         <splash height="2732" src="resources/ios/splash/Default@2x~universal~anyany.png" width="2732" />
-        <edit-config file="*-Info.plist" mode="merge" target="NSLocationWhenInUseUsageDescription">
-            <string>We need your location so you can attach it as part of your submissions.</string>
-        </edit-config>
         <icon height="20" src="resources/ios/icon/icon-20.png" width="20" />
         <icon height="40" src="resources/ios/icon/icon-20@2x.png" width="40" />
         <icon height="60" src="resources/ios/icon/icon-20@3x.png" width="60" />
